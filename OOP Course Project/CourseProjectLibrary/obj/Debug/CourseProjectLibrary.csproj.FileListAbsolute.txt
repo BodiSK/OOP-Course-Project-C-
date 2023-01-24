@@ -1,0 +1,6 @@
+C:\Users\Svoboda\source\repos\OOP Course Project\CourseProjectLibrary\bin\Debug\CourseProjectLibrary.dll
+C:\Users\Svoboda\source\repos\OOP Course Project\CourseProjectLibrary\bin\Debug\CourseProjectLibrary.pdb
+C:\Users\Svoboda\source\repos\OOP Course Project\CourseProjectLibrary\obj\Debug\CourseProjectLibrary.csprojAssemblyReference.cache
+C:\Users\Svoboda\source\repos\OOP Course Project\CourseProjectLibrary\obj\Debug\CourseProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Svoboda\source\repos\OOP Course Project\CourseProjectLibrary\obj\Debug\CourseProjectLibrary.dll
+C:\Users\Svoboda\source\repos\OOP Course Project\CourseProjectLibrary\obj\Debug\CourseProjectLibrary.pdb

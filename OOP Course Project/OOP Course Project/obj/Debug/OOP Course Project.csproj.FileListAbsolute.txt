@@ -1,0 +1,16 @@
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\bin\Debug\OOP Course Project.exe.config
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\bin\Debug\OOP Course Project.exe
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\bin\Debug\OOP Course Project.pdb
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP Course Project.csprojAssemblyReference.cache
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP_Course_Project.Properties.Resources.resources
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP Course Project.csproj.GenerateResource.cache
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP Course Project.csproj.CoreCompileInputs.cache
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP Course Project.exe
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP Course Project.pdb
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP_Course_Project.FormScene.resources
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP_Course_Project.FormProperties.resources
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP_Course_Project.FormFileManage.resources
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\bin\Debug\CourseProjectLibrary.dll
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\bin\Debug\CourseProjectLibrary.pdb
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP Course Project.csproj.CopyComplete
+C:\Users\Svoboda\source\repos\OOP Course Project\OOP Course Project\obj\Debug\OOP_Course_Project.FormSelectBy.resources
